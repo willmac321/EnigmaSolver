@@ -1,0 +1,23 @@
+You have intercepted two messages. The first is
+
+"IPUXZGICZWASMJFGLFVIHCAYEGT". 
+HOWDYAGGIESTHEWEATHEUMPMDZF Rotor at letter 20 0:6 1:24 2:7  MYH 123 B
+HOWDYAGGIQYNJGIYXGBNRISFINE
+
+
+
+The second is "LTHCHHBUZODFLJOAFNNAEONXPLDJQVJCZPGAVOLN"
+
+PASSWORDITMBOGJQBWGGORYROCKSLEARNCRNSLJH
+PASSWORDISGIGEMXHISTGUZHTXSNRPOYUJCUMRGO  
+PASSWORDISGIGEMXHWGGORYROCKSLEARNCRYPTOX Rotors: 1,2,3
+
+http://www.cryptomuseum.com/crypto/enigma/wiring.htm
+using notch not turnover # and piecing together
+PASSWORDISGIGEMXHWGGORYROCKSLEARNCRYPTOX Rotors: 1,2,3
+PASSWORDISGIGEMXHISTORYROCKSLEARNCRYPTOX
+
+You have decrpted the first message and found that it is "HOWDYAGGIESTHEWEATHERISFINE"
+Assume that "I II III" are rotors.
+Plugboard is "AV BS CG DL FU HZ IN KM OW RX"
+What is the flag? (The flag is in a slightly different format.)
